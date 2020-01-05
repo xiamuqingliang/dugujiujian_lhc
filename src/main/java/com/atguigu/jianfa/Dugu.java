@@ -9,5 +9,7 @@ public class Dugu {
         System.out.println("jianfa dugujiujian!!!!");
         System.out.println("jianfa dugujiujian!!!!");
         System.out.println("jianfa dugujiujian!!!!");
+        System.out.println("jianfa dugujiujian!!!!");
+        System.out.println("jianfa dugujiujian!!!!");
     }
 }
